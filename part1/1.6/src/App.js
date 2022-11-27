@@ -1,7 +1,6 @@
 import { useState } from 'react'
 
 const App = () => {
-
   const headers = {
     feedbackHeader: "Give Feedback",
     statisticsHeader: "Statistics",
