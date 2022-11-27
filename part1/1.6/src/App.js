@@ -18,7 +18,6 @@ const App = () => {
   const increaseNeutral = () => setNeutral(neutral + 1)
   const increaseBad = () => setBad(bad + 1)
 
-
   return (
     <div>
       <h1>{headers.feedbackHeader}</h1>
