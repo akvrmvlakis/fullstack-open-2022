@@ -35,7 +35,6 @@ const Total = () => {
 };
 
 const App = () => {
-
   return (
     <div>
       <Header course={Header} />
@@ -45,6 +44,6 @@ const App = () => {
   )
 }
 
-export default App; 
+export default App;
 
 
